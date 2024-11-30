@@ -1,0 +1,9 @@
+Flask==2.0.2
+slack_sdk==3.28.0
+schedule==1.2.2
+python-dotenv==1.0.1
+gunicorn==22.0.0
+matplotlib==3.9.0
+werkzeug==2.0.3
+slack-bolt==1.10.0
+pytz
